@@ -9,9 +9,8 @@
         <link rel="stylesheet" type="text/css" href="/assets/css/default.css"/>
 	</head>
 	<body>
-            <div id="content">
-                {content}
-            </div>
+        <div class="container">
+					{content}
             <div id="footer" class="span12">
                 Copyright &copy; 2018,  <a href="mailto:someone@somewhere.com">Piyotr Kao</a> & <a href="mailto:someone@somewhere.com">Daniel Katz</a>.
             </div>
