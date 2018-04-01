@@ -1,4 +1,6 @@
-<div class="alert alert-info">{remaining_tasks} tasks are left to do!</div>
+<div class="alert alert-info">This is a server webapp</div>
+
+<!-- <div class="alert alert-info">{remaining_tasks} tasks are left to do!</div>
 
 <table class="table">
     <tr>
@@ -13,4 +15,4 @@
         <th>{priority}</th>
     </tr>
 {/display_tasks}
-</table>
+</table> -->

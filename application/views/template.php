@@ -10,15 +10,7 @@
 	</head>
 	<body>
         <div class="container">
-            <div class="navbar navbar-default">
-                <div class="navbar-inner">
-                    {menubar}
-				</div>
-            </div>
-            <div id="content">
-                <h1>{pagetitle}</h1>
-                {content}
-            </div>
+					{content}
             <div id="footer" class="span12">
                 Copyright &copy; 2018,  <a href="mailto:someone@somewhere.com">Piyotr Kao</a> & <a href="mailto:someone@somewhere.com">Daniel Katz</a>.
             </div>
